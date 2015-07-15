@@ -17,6 +17,8 @@ and open the template in the editor.
          echo "realy nice";
          
          echo "new";
+         
+         echo "teg1";
         ?>
     </body>
 </html>
