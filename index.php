@@ -16,6 +16,8 @@ and open the template in the editor.
          echo "new rev 0.1.11";
          
          echo "b1";
+         
+         echo "Issue 1";
         
         ?>
     </body>
