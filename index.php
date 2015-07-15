@@ -20,6 +20,8 @@ and open the template in the editor.
          echo "Issue 1";
          
          echo "Issue 2";
+         
+         echo "Issue 3";
         
         ?>
     </body>
