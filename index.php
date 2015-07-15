@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php
         
          echo "hello";
-         ech "new rev 0.1.6";
+         echo "new rev 0.1.7";
         
         ?>
     </body>
