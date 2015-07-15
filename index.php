@@ -18,6 +18,8 @@ and open the template in the editor.
          echo "b1";
          
          echo "Issue 1";
+         
+         echo "Issue 2";
         
         ?>
     </body>
