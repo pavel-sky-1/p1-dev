@@ -15,6 +15,8 @@ and open the template in the editor.
          echo "hello";
   
          echo "realy nice";
+         
+         echo "new";
         ?>
     </body>
 </html>
