@@ -20,6 +20,7 @@ and open the template in the editor.
          
          echo "teg1";
          
+         echo "page2";
          echo "page1";
         ?>
     </body>
