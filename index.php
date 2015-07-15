@@ -13,15 +13,8 @@ and open the template in the editor.
         <?php
         
          echo "hello";
-  
-         echo "realy nice";
-         
-         echo "new";
-         
-         echo "teg1";
-         
-         echo "page2";
-         echo "page1";
+         echo "new rev 0.1";
+        
         ?>
     </body>
 </html>
